@@ -25,6 +25,8 @@ End the program.
 
 ## PROGRAM:
 ```
+developed by:M.sakthivel
+register no: 22007765
 fname = input("Enter file name: ")
 num_words = 0
 with open(fname, 'r') as f:
